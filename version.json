@@ -1,11 +1,12 @@
 {
-  "Version": "3.0.0",
+  "Version": "3.0.1",
   "DownloadUrl": "https://github.com/Amr32321/st-injector/releases/download/v2.9.0/ST.SETUP.3.0.1.exe",
   "ReleaseDate": "2025-11-25",
   "ReleaseNotes": "✨ تلقائي Auto Update نظام إضافة\n🔧 والاستقرار الأداء في تحسينات\n🐛 المعروفة المشاكل بعض إصلاح\n🎨 الواجهة في تحسينات\n🔐 أمنية تحسينات",
   "ForceUpdate": false,
   "FileSize": 52428800
 }
+
 
 
 
